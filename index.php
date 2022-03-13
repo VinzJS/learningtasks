@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <head> 
 <link rel="stylesheet" href="styles.css">
-<title><b>My top 10 favorites</b></title>
+<b>My top 10 favorites</b>
 </head>
 <body>
 <div class="container">
