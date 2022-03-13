@@ -3,6 +3,7 @@ div {
   border: 10px solid red;
   padding: 5px;
   height: 500px;
+  overflow-wrap: break-word;
 }
 img {
    width: 150px;
