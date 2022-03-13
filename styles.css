@@ -13,4 +13,10 @@ img {
   left: 50px;
   bottom: 50px;
 }
+container {
+  width: 300px;
+  height: 500px;
+  border: 10px solid red;
+}
+  
   
