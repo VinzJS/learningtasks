@@ -9,7 +9,13 @@
      float: left;
      border: 5px solid red;
 }
-
+img {
+   width: 250px;
+  height: 150px;
+  position: static;
+  top: 30px;
+  left: 50px;
+}
 
   
   
