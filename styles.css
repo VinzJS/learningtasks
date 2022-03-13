@@ -16,12 +16,12 @@ img {
 container {
   width: 90%;
   overflow: hidden;
-  position: absolute;
-  right: 10px;
+  position: fixed;
+  right: 80px;
   margin: 20px auto;
   padding: 20px;
   float: left;
-  justify-content: space-between;
+  
 }
 
 
