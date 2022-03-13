@@ -5,7 +5,11 @@
 </head>
 <body>
 <div class="container">
-     <div class="col"><p>Top 1</p></div>
+     <div class="col"><p>Top 1 Kendrick Lamar</p>
+          <img src="kendrick.jpg" alt="Kendrick">
+          <p>Kendrick Lamar Duckworth is an American rapper, songwriter, and record producer.  
+        He is widely regarded as one of the greatest rappers of all time.</p>
+     </div>
      <div class="col"><p>Top 2</p></div>
      <div class="col"><p>Top 3</p></div>
      <div class="col"><p>Top 4</p></div>
@@ -17,3 +21,4 @@
      <div class="col"><p>Top 10</p></div>
 </div> 
 </body>
+</html>
