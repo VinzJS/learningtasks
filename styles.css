@@ -13,7 +13,7 @@ img {
   left: 50px;
   bottom: 50px;
 }
-container {
+container .col{
   width: 90%;
   overflow: hidden;
   position: fixed;
