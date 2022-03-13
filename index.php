@@ -1,14 +1,7 @@
 <!DOCTYPE html>
 <head> 
-<title> CSS Box Model</title>
-<style>
-     .container {
-            width: 1000px; height: 500px; border: 1px solid red; margin: 0 auto;
-}
-.col {
-     width: 250px; height: 300px; background-color: yellow; float: left;
-}
-</style>
+<link rel="stylesheet" href="styles.css">
+<title><b>My top 10 favorites</b></title>
 </head>
 <body>
 <div class="container">
