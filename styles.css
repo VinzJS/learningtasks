@@ -19,15 +19,5 @@ container {
   border: 10px solid red;
   float: left;
 }
-container .box {
-  position: relative;
-  width: calc (400px - 30px);
-  height: calc(300px - 30px);
-  float: left;
-  margin: 15px;
-  box-sizing: border-box;
-  overflow: hidden;
-  border-radius: 10px;
-}
   
   
