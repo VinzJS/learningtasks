@@ -4,8 +4,6 @@ div {
   padding: 5px;
   height: 500px;
 }
-img {
-  width: 200px;
-  height 100px;
-  object-fit: scale-down;
+.top1 img {
+  object-fit: contain;
 }
