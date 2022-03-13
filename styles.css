@@ -5,6 +5,7 @@ div {
   height: 500px;
 }
 img {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height 100px;
+  object-fit: scale-down;
 }
