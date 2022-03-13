@@ -1,27 +1,8 @@
-div {
-  width: 300px;
-  border: 10px solid red;
-  padding: 5px;
-  height: 500px;
-  overflow-wrap: break-word;
+.container {
+     width: 1000px; height: 500px; border: 1px solid red; margin: 0 auto;
 }
-img {
-   width: 250px;
-  height: 150px;
-  position: static;
-  top: 30px;
-  left: 50px;
-  bottom: 50px;
-}
-container .col{
-  width: 90%;
-  overflow: hidden;
-  position: fixed;
-  right: 80px;
-  margin: 20px auto;
-  padding: 20px;
-  float: left;
-  
+.col {
+     width: 250px; height: 300px; background-color: yellow; float: left;
 }
 
 
