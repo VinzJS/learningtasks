@@ -17,6 +17,7 @@ container {
   width: 300px;
   height: 500px;
   border: 10px solid red;
+  float: left;
 }
 container .box {
   position: relative;
