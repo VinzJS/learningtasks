@@ -16,6 +16,7 @@
       <img src="50.jpg" alt="cent">
       <p>  50 Cent, is an American rapper, actor and entrepreneur. 
         Known for his impact in the hip hop industry, he has been described as a "master of the nuanced art of lyrical brevity".</p>
+      <div>ONE</div>
    </div>
   </body>
 </html>
