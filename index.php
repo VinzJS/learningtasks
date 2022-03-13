@@ -12,9 +12,8 @@
      </div>
      <div class="col"><p>Top 2 Tupac</p>
      <img src="tupac.jpg" alt="2pac">
-          <p>Tupac Amaru Shakur, better known by his stage name 2Pac and later by his alias Makaveli, was an American rapper and actor. 
-               Considered one of the most influential rappers of all time, 
-               Shakur is among the best-selling music artists, having sold more than 75 million records worldwide</p>
+          <p>Tupac Amaru Shakur, better known by his stage name 2Pac. Shakur is among the best-selling music artists, having sold more than 75 million records worldwide 
+               Considered one of the most influential rappers of all time.</p>
      </div>
      <div class="col"><p>Top 3</p></div>
      <div class="col"><p>Top 4</p></div>
