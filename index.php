@@ -11,5 +11,10 @@
       <p>Kendrick Lamar Duckworth is an American rapper, songwriter, and record producer.  
         He is widely regarded as one of the greatest rappers of all time.</p>
     </div>
+    <div class="container">
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+    </div>
   </body>
 </html>
