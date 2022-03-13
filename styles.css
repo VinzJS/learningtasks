@@ -14,10 +14,11 @@ img {
   bottom: 50px;
 }
 container {
-  width: 300px;
-  height: 500px;
-  border: 10px solid red;
-  float: left;
+  width: 90%;
+  overflow: hidden;
+  background: skyblue;
+  margin: 20px auto;
+  padding: 20px;
 }
   
   
