@@ -4,10 +4,12 @@
      margin: 0px auto;
 }
 .col {
-     width: 250px; 
+     width: 148px; 
      height: 300px; 
      float: left;
      border: 5px solid red;
+     padding: 40px;
+     margin: 10px;
 }
 img {
    width: 250px;
