@@ -12,9 +12,14 @@
         He is widely regarded as one of the greatest rappers of all time.</p>
     </div>
     <div class="container">
-      <div class="box"></div>
-      <div class="box"></div>
-      <div class="box"></div>
-    </div>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+     </ul>
+   </div>
   </body>
 </html>
