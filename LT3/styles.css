@@ -1,6 +1,32 @@
-div {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+body {
+  background-image: url('bg1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+head{
+  font-size:30px;
+}
+.container {
+     width: 1500px; 
+     height: 500px; 
+     margin: 0px auto;
+}
+.col {
+     width: 148px; 
+     height: 400px; 
+     float: left;
+     border: 1px solid red;
+     padding: 50px;
+     margin: 10px;
+     overflow: hidden;
+     background-color: #cccccc;
+
+}
+img {
+   width: 220px;
+  height: 100px;
+  position: static;
+  top: 30px;
+  left: 50px;
 }
