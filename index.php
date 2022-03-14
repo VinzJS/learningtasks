@@ -2,7 +2,7 @@
 <head> 
 <link rel="stylesheet" href="styles.css">
  <div class="title">
-<b>My top 10 favorites rappers</b>
+<p style="color:blue">My top 10 favorite rappers</p>
      </div>
 </head>
 <body>
