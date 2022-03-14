@@ -27,7 +27,7 @@
           <p>Known professionally as Dr. Dre, is an American rapper, record producer, and entrepreneur. 
              He is the founder and CEO of Aftermath Entertainment and Beats Electronics, and previously co-founded, co-owned, and was the president of Death Row Records</p>
      </div>
-     <div class="col"><p>Top 5 - Eminem</p>
+     <div class="col"><p><b>Top 5 - Eminem</b></p>
           <img src="mnm.jpg" alt="mnm">
           <p>Known professionally as Eminem, is an American rapper, songwriter, and record producer. 
              Eminem is among the best-selling music artists of all time, with estimated worldwide sales of over 220 million records.</p>
