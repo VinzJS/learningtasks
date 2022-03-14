@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <head> 
 <link rel="stylesheet" href="styles.css">
- <div class="title">
-<p style="color:red""font-size:30px">My top 10 favorite rappers</p>
-     </div>
+ <p><font size = "+4" color = "red">
+            My Top 10 Favorite Rappers
+         </font>
+      </p>
 </head>
 <body>
 <div class="container">
