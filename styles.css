@@ -1,7 +1,11 @@
-.title {
-     font-size: 20;
+<style>
+body {
+  background-image: url('bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
-
+</style>
 .container {
      width: 1500px; 
      height: 500px; 
