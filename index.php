@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <head> 
 <link rel="stylesheet" href="styles.css">
+ <div class="title">
 <b>My top 10 favorites rappers</b>
+     </div>
 </head>
 <body>
 <div class="container">
