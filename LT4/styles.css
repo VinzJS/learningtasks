@@ -24,7 +24,8 @@
 .menu-icon{
  width:30px;
  cursor:pointer;
-nav{
+}
+ nav{
   flex:1;
   text-align:right;
 }
