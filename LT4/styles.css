@@ -5,6 +5,9 @@
   background image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(image/bg.jpg);
   background-position: center;
   background-size: cover;
+  padding-left:8%;
+  padding-right:8%;
+  box-sizing:border-box;
 }
 .navbar{
   height:12%;
@@ -14,4 +17,14 @@
 nav{
   flex:1;
   text-align:right;
+}
+nav ul li{
+  list-style:none;
+  display:inline-block;
+  margin-left:60px; 
+}
+nav ul li a{
+  text-decoration:none;
+  color:#fff;
+  font-size:13px;
 }
