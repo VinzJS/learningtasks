@@ -2,7 +2,7 @@
 .container{
   position: relative;
     background-position: center, center;
-    background-image: url("Header.jpg");
+    background-image: url("bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
