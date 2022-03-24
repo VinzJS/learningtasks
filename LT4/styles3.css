@@ -49,3 +49,10 @@ nav ul li a{
   color:black;
   font-size:20px;
 }
+.row{
+  display:flex;
+  height:88%;
+  align-items:center;
+}
+.col{
+  flex-basis:50%;
