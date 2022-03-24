@@ -52,4 +52,5 @@ nav ul li a{
 }
 .menu-icon{
  width:30px;
- cur
+ cursor:pointer;
+}
