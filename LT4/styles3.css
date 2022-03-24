@@ -47,9 +47,11 @@ h1{
   font-size:100px;
 }
 .row{
-  float:left;
+  display:flex;
+  height:88%;
+  align-items:center;
 }
 .col{
-  float:left;
+  flex-basis:50%;
 }
  
