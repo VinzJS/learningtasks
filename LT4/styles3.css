@@ -1,45 +1,4 @@
-body {
-  background-image: url('bg1.jpg');
-   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
 
-*{
-  margin:0;
-  padding:0;
-  font-family:'Roboto', sans-serif;
-}
-.navbar{
-  height:12%;
-  display:flex;
-  align-items:center;
-}
-.menu-icon{
- width:30px;
- cursor:pointer;
-}
-
- nav{
-  flex:1;
-  text-align:right;
-}
-
-nav ul li{
-  list-style:none;
-  display:inline-block;
-  margin-left:60px; 
-}
-
-nav ul li a{
-  text-decoration:none;
-  color:#808080;
-  font-size:20px;
-}
-.menu-icon{
- width:30px;
- cursor:pointer;
-}
 p{
   font-size:30px;
 }
