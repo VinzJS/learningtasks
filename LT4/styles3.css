@@ -4,6 +4,9 @@
   background-image:url('bg1.jpg');
   background-position:center;
   background-size:cover;
+  padding-left:8%;
+  padding-right:8%;
+  box-sizing:border-box;
 }
 .navbar{
   height:12px;
@@ -39,4 +42,11 @@ nav ul li a{
 }
 .col{
   flex-basis:50%;
+}
+h1{
+  font-size:100px;
+}
+p{
+  font-size:11px;
+  lineheight:15px;
 }
