@@ -32,6 +32,9 @@ body {
 .card4{
   background-image:url(pic4.jpg);
 }
+.card5{
+  background-image:url(pic4.jpg);
+}
 .navbar{
   height:12%;
   display:flex;
