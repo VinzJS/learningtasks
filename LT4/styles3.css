@@ -1,5 +1,7 @@
-.card2{
-  float:right;
+.col1{
+  flex-basis:50%;
+}
+
 }
 .card{
   width:300px;
