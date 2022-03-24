@@ -37,7 +37,7 @@ nav ul li a{
   flex-basis:50%;
 }
 .card{
-  width:300px;
+  width:500px;
   height:200px;
   display:inline-block;
   border-radius:10px;
