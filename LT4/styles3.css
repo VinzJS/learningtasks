@@ -23,12 +23,7 @@
 .card4{
   background-image:url(pic4.jpg);
 }
-body {
-  background-image: url('bg1.jpg');
-   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
+
 .navbar{
   height:12%;
   display:flex;
