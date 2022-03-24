@@ -23,6 +23,11 @@
 .card4{
   background-image:url(pic4.jpg);
 }
+.navbar{
+  height:12%;
+  display:flex;
+  align-items:center;
+}
 
 
 
