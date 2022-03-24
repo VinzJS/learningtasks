@@ -35,39 +35,33 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
-
 .navbar{
-  height:12%;
+  height:12px;
   display:flex;
   align-items:center;
 }
-.menu-icon{
- width:30px;
- cursor:pointer;
+.logo{
+  width:50px;
+  cursor:pointer;
 }
-
- nav{
+.menu-icon{
+  width:30px;
+  cursor:pointer;
+  margin-left:40px;
+}
+nav{
   flex:1;
   text-align:right;
 }
-
 nav ul li{
   list-style:none;
   display:inline-block;
-  margin-left:60px; 
+  margin-left:60px;
 }
-
 nav ul li a{
   text-decoration:none;
-  color:#808080;
-  font-size:20px;
+  font-size:13px;
 }
-.menu-icon{
- width:30px;
- cursor:pointer;
-}
-
-
 p{
   font-size:30px;
 }
