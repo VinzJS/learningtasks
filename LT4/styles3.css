@@ -11,7 +11,7 @@ h1{
   align-items:center;
 }
 .col{
-  flex-basis:50%;
+  flex-basis:100%;
 }
 .card{
   width:200px;
