@@ -1,34 +1,4 @@
-.pic{
-  width:500px;
-}
-.card{
-  width:300px;
-  height:230px;
-  display:inline-block;
-  border-radius:10px;
-  padding:15px;
-  box-sizing:border-box;
-  cursor:pointer;
-  margin: 10px 15px;
-  background-position:center;
-  background-size:cover;
-  transistion:tranform 0.5;
-}
-.card1{
-  background-image: url('pic1.jpg');
-}
-.card2{
-  background-image: url('pic2.jpg');
-}
-.card3{
-  background-image: url('pic3.jpg');
-}
-.card4{
-  background-image: url('pic4.jpg');
-}
-.card:hover{
-  transform:translateY(-10px);
-}
+
 body {
   background-image: url('bg1.jpg');
    background-repeat: no-repeat;
