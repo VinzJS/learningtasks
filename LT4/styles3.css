@@ -1,4 +1,9 @@
-
+.pic{
+  width:300px;
+  transistion:tranform 0.5;
+  background-size:cover;
+  background-position:center;
+}
 .card{
   width:300px;
   height:230px;
