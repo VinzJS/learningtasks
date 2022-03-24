@@ -30,7 +30,7 @@
 }
  nav{
   flex:1;
-   height:50%;
+  text-align:right;
 }
 nav ul li{
   list-style:none;
