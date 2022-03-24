@@ -79,6 +79,7 @@ nav ul li a{
   flex-basis:50%;
 }
 h1{
+  height:50px;
   font-size:100px;
 }
 p{ 
