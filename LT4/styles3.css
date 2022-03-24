@@ -11,6 +11,18 @@
   background-position:center;
   background-size:cover;
 }
+.card1{
+  background-image: url('pic1.jpg');
+}
+.card2{
+  background-image: url('pic2.jpg');
+}
+.card3{
+  background-image: url('pic3.jpg');
+}
+.card4{
+  background-image: url('pic4.jpg');
+}
 *{
   margin:0;
   padding:0;
