@@ -9,7 +9,7 @@
   margin: 10px 15px;
   background-position:center;
   background-size:cover;
-  float:right;
+  float:left;
 }
 .card1{
   background-image: url('pic1.jpg');
