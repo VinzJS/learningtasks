@@ -43,7 +43,8 @@ nav ul li a{
 .menu-icon{
  width:30px;
  cursor:pointer;
-}.card{
+}
+.card{
   width:200px;
   height:230px;
   display:inline-block;
