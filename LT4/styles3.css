@@ -7,9 +7,9 @@
   box-sizing:border-box;
   cursor:pointer;
   margin: 10px 15px;
-  background-image: url('pic1.jpg');
   background-position:center;
   background-size:cover;
+  float:right;
 }
 .card1{
   background-image: url('pic1.jpg');
