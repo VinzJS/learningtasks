@@ -24,13 +24,5 @@
   background-image:url(pic4.jpg);
 }
 
-.navbar{
-  height:12%;
-  display:flex;
-  align-items:center;
-}
- nav{
-  flex:1;
-  text-align:right;
-}
+
 
