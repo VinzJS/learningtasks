@@ -12,6 +12,11 @@
   text-align:center;
   color:yellow;
 }
+.helv{
+  font-family:Helvetica;
+  font-size:18px;
+  text-align:center;
+  margin-right:50px;
 body{
   margin-top: 200px;
 }
