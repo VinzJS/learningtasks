@@ -13,10 +13,11 @@
   color:yellow;
 }
 .helv{
-  font-family:Helvetica;
+  font-family:cursive, "Brush Script MT";
   font-size:18px;
   text-align:center;
   margin-right:50px;
+  color:yellow
 body{
   margin-top: 200px;
 }
