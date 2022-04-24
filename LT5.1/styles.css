@@ -6,4 +6,8 @@
 .container{
   height:100vh;
   width:100%;
-  background-image:
+  background-image:url(image.png);  
+  background-size:cover;
+  background-position:center;
+  position:relative;
+}
