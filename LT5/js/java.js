@@ -2,7 +2,7 @@ var Song = document.getElementById("Song");
 var icon = document.getElementById("icon");
 var Song2 = document.getElementById("Song2");
 var icon2 = document.getElementById("icon2");
-document.getElementById("song2").volume = 0.2;
+document.getElementById("Song2").volume = 0.2;
 document.getElementById("Song").volume = 0.2;
 var dt = new Date();
 document.getElementById('date-time').innerHTML=dt;
@@ -17,11 +17,11 @@ if(Song.paused){
 }
 }
 icon2.onclick = function(){
-    if(song2.paused){
-        song2.play();
+    if(Song2.paused){
+        Song2.play();
         icon2.src="img/pause.png";
     }else{
-        song2.pause();
+        Song2.pause();
         icon2.src="img/play.png";
     }
     }
