@@ -1,24 +1,25 @@
-
 *{
     margin:0;
     padding:0;
     font-family: sans-serif;
   }
   .container{
-    background-image: url('../img/bg4.jpg');
     height:100vh;
     width:100%;
+    background-image: url('img/bg4.jpg');
     background-size:cover;
     background-position:center;
     position:relative;
   }
   .navbar{
+    color: rgb(0, 252, 231);
     width:88%;
     margin:auto;
     padding:15px 0;
     display:flex;
     align-items:center;
     justify-content:space-between;
+    font-size:30px;
   } 
   .logo{
     width:140px;
@@ -27,12 +28,12 @@
   .navbar ul li{
     list-style:none;
     display:inline-block;
-    margin: 0 15px;
+    margin: 0 15px; 
   }
   .navbar ul li a{
     text-decoration:none;
     color: rgb(107, 122, 253);
-    font-size:15px;
+    font-size:20px;
   }
   
   .content{
@@ -43,15 +44,18 @@
   .left-col{
     margin-left:6%;
   }
-  .left-col h1{
-    font-size:90px;
-    color:rgb(107, 122, 253);
-    line-height:110px;
+  .left-col{
     float:left;
+    font-size:25px;
+    color:rgb(107, 122, 253);
+    margin-left:0%;
+    margin-top:120px;
+    display:flex;
+    align-items:center;
   }
   .right-col{
     float:right;
-    margin-right:6%;
+    margin-right:2%;
     margin-top:120px;
     display:flex;
     align-items:center;
@@ -66,3 +70,18 @@
     width:80px;
     cursor:pointer;
   } 
+  #icon2{
+    width:80px;
+    cursor:pointer;
+  } 
+  #date-time{
+    color: blueviolet;
+  }
+  .mid{
+    float:right;
+    margin-right:8%;
+    margin-top:10px;
+    align-items:center;
+    color:rgb(251, 255, 0);
+    font-size:25px;
+  }
