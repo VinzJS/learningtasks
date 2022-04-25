@@ -1,6 +1,6 @@
 var Song = document.getElementById("Song");
 var icon = document.getElementById("icon");
-var Song2 = document.getElementById("Song2");
+var Song2 = document.getElementById("song2");
 var icon2 = document.getElementById("icon2");
 document.getElementById("Song2").volume = 0.2;
 document.getElementById("Song").volume = 0.2;
@@ -17,11 +17,11 @@ if(Song.paused){
 }
 }
 icon2.onclick = function(){
-    if(Song2.paused){
-        Song2.play();
+    if(song2.paused){
+        song2.play();
         icon2.src="img/pause.png";
     }else{
-        Song2.pause();
+        song2.pause();
         icon2.src="img/play.png";
     }
     }
